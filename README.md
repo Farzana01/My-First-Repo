@@ -1,2 +1,3 @@
 # My-First-Repo
-Create my first repo in AI Bootcamp
+Created my first repo in AI Bootcamp
+Wish me luck !
